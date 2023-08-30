@@ -1,7 +1,7 @@
 @import url(./header.css);
 @import url(./banner.css);
 @import url(./carrossel.css);
-
+@import url(./topicos.css);
 :root{--cordefundo:#EBECEE;
 --branco:#FFFFFF;
 --laranja:rgb(235, 155, 0);
